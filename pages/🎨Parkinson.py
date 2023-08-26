@@ -6,11 +6,6 @@ import cv2
 import numpy as np
 from skimage import feature
 
-st.set_page_config(
-    page_title="Parkinson Disease Detector",
-    
-)
-
 # Get the directory where this script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
