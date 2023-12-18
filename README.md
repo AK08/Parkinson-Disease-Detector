@@ -11,3 +11,7 @@
     <a href="https://parkinson-disease-detector-x3nlmueob9ekvhz96wc4vh.streamlit.app/">View Deployment</a>
   </p>
 </div>
+
+## About
+
+This project focuses on the classification of Parkinson's Disease.Pioneered the world's first publicly accessible Parkinson's Disease Detector (based on spiral and wave drawings).
